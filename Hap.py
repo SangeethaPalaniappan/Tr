@@ -1,3 +1,3 @@
 print("Happy Learning!")
 print("Have a great day")
-print("Nice to meet you")
+print("Nice to meet You")
